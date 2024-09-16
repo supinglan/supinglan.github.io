@@ -81,12 +81,12 @@ tr,
 p,
 a {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
-  font-size: 14px;
+  font-size: 16px;
 }
 
 strong {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
-  font-size: 14px;
+  font-size: 16px;
 }
 
 h2 {
@@ -111,13 +111,13 @@ h2 {
 
 .one {
   width: 120px;
-  height: 210px;
+  height: 140px;
   position: relative;
 }
 
 .two {
   width: 350px;
-  height: 210px;
+  height: 140px;
   position: absolute;
   transition: opacity .2s ease-in-out;
   -moz-transition: opacity .2s ease-in-out;
